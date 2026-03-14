@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Conditions d'Utilisation - boxbot</title>
+</head>
+<body>
+    <h1>Conditions d'Utilisation de [Nom de votre Bot]</h1>
+    <p><strong>Dernière mise à jour :</strong> 14 mars 2026</p>
+
+    <p>En invitant boxbot sur votre serveur Discord ou en l'utilisant, vous acceptez ces Conditions d'Utilisation. Si vous n'êtes pas d'accord, ne l'utilisez pas.</p>
+
+    <h2>1. Description du Service</h2>
+    <p>Le Bot est une application Discord développée par marlboro gold u.3_6, fournie gratuitement pour améliorer l'expérience sur les serveurs Discord.</p>
+
+    <h2>2. Utilisation Autorisée</h2>
+    <ul>
+        <li>Utilisation personnelle et non commerciale sur des serveurs Discord publics ou privés.</li>
+        <li>Respect des <a href="https://discord.com/terms">Conditions d'Utilisation de Discord</a> et des politiques développeurs.</li>
+    </ul>
+
+    <h2>3. Actions Interdites</h2>
+    <p>Il est interdit de :</p>
+    <ul>
+        <li>Utiliser le Bot pour du spam, harcèlement, activités illégales ou nuisibles.</li>
+        <li>Modifier, reverse-engineer, copier ou redistribuer le code du Bot.</li>
+        <li>Exploiter commercialement le Bot (vente d'accès, pubs sans autorisation).</li>
+        <li>Violer la vie privée des utilisateurs ou collecter des données sans consentement.</li>
+    </ul>
+
+    <h2>4. Données et Confidentialité</h2>
+    <p>Consultez notre <a href="[Lien vers votre Privacy Policy]">Politique de Confidentialité</a> pour les détails sur les données collectées (ex: ID utilisateur, messages). Aucune donnée sensible n'est stockée sans raison légitime.</p>
+
+    <h2>5. Limitation de Responsabilité</h2>
+    <p>Le Bot est fourni « tel quel ». Le Propriétaire n'est pas responsable des dommages, pertes de données, interruptions ou problèmes causés par l'utilisation. Utilisation à vos risques et périls.</p>
+
+    <h2>6. Modification et Arrêt du Service</h2>
+    <p>Le Propriétaire peut modifier ces Conditions, suspendre ou arrêter le Bot à tout moment sans préavis. L'utilisation continue implique acceptation des changements.</p>
+
+    <h2>7. Propriété Intellectuelle</h2>
+    <p>Tout le code, design et contenu du Bot appartiennent au Propriétaire. Aucune licence n'est accordée au-delà de l'utilisation décrite.</p>
+
+    <h2>8. Loi Applicable</h2>
+    <p>Ces Conditions sont régies par le droit français.</p>
+
+    <h2>9. Contact</h2>
+    <p>Questions ? Contactez u.3_6 sur discord.</p>
+
+    <p><em>Conforme aux exigences Discord pour les bots vérifiés.</em></p>
+</body>
+</html>
